@@ -7,7 +7,7 @@ I began this project because I was eager to see the ins and outs of app developm
 
 Every line of code and asset used within the app (assets were not added to this repository as there was a lot), was coded, drawn, or created by me. 
 
-Upon completion of this project, I learned the FULL scope of what it takes to put an app on the App Store, along with insight on overcoming various obstacles that I encountered throughout the app development and shipping process.
+Upon completion of this project, I learned the FULL scope of what it takes to put an app on the App Store, along with insight on overcoming various obstacles that I encountered throughout the app development and shipping process. Including learning about the legal stuff!
 
 I'd like to say that upon completion, it felt like a mini-internship, where I can take what I learned here and use this experience in future endeavors.
 

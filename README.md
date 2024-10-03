@@ -3,6 +3,8 @@ Motion of the Day: An iOS App by Gabriel Saucedo
 
 My first iOS app that is live on the App Store!
 
+An app that gives the user various different stretches and exercises to keep them moving! Illustrations provided!
+
 I began this project because I was eager to see the ins and outs of app development, and I especially wanted to dip my feet into programming using Swift. After learning how Swift works and how it works inside XCode, I was able to begin on my first app development project, and I sure learned a lot. From splash screens to testing, and from submitting for review to ready for distribution, I was able to experience the full procedure that developing and releasing an app had to offer.
 
 Every line of code and asset used within the app (assets were not added to this repository as there was a lot), was coded, drawn, or created by me. 

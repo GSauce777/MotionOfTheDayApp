@@ -1,7 +1,7 @@
 # MotionOfTheDayApp
 Motion of the Day: An iOS App by Gabriel Saucedo
 
-My first iOS app that is live on the App Store!
+My first iOS app!
 
 Looking to add more movement to your day? Motion of the Day is your simple solution to stay active with minimal effort! Whether you’re at home, at work, or on the go, our app offers a daily stretch or exercise at the tap of a button.
 
